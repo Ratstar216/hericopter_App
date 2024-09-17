@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hericopter_App/static/css/main.3fb1bcf1.css",
+    "main.js": "/hericopter_App/static/js/main.5e9af9cb.js",
+    "static/js/453.c5eaf93b.chunk.js": "/hericopter_App/static/js/453.c5eaf93b.chunk.js",
+    "index.html": "/hericopter_App/index.html",
+    "main.3fb1bcf1.css.map": "/hericopter_App/static/css/main.3fb1bcf1.css.map",
+    "main.5e9af9cb.js.map": "/hericopter_App/static/js/main.5e9af9cb.js.map",
+    "453.c5eaf93b.chunk.js.map": "/hericopter_App/static/js/453.c5eaf93b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fb1bcf1.css",
+    "static/js/main.5e9af9cb.js"
+  ]
+}
